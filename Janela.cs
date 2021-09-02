@@ -24,7 +24,4 @@ public abstract class Janela {
     PosY        = py;
   }
 
-
-
-  
 }
